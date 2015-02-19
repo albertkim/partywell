@@ -1,6 +1,7 @@
 body {
   background-color: black;
   font-family: Tahoma, Geneva, sans-serif;
+  color: rgb(195, 195, 195);
 }
 
 h1 {
@@ -33,26 +34,24 @@ h3 {
     opacity:0;
 }
 
+#image0 {
+  background-image: url("/images/main-header.jpg");
+}
 #image1 {
   background-image: url("/images/futurefest-1.jpg");
 }
-
 #image2 {
   background-image: url("/images/futurefest-2.jpg");
 }
-
 #image3 {
   background-image: url("/images/futurefest-3.jpg");
 }
-
 #image4 {
   background-image: url("/images/futurefest-4.jpg");
 }
-
 #image5 {
   background-image: url("/images/futurefest-5.jpg");
 }
-
 #image6 {
   background-image: url("/images/futurefest-6.jpg");
 }
