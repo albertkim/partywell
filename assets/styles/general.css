@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+#header {
+  height: 600px;
+}
+
+.small-background {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+.dim {
+  opacity: 0.5;
+}
+
+.fadeIn {
+    opacity:0;
+}
+
+#image1 {
+  background-image: url("/images/futurefest-1.jpg");
+}
+
+#image2 {
+  background-image: url("/images/futurefest-2.jpg");
+}
+
+#image3 {
+  background-image: url("/images/futurefest-3.jpg");
+}
+
+#image4 {
+  background-image: url("/images/futurefest-4.jpg");
+}
+
+#image5 {
+  background-image: url("/images/futurefest-5.jpg");
+}
+
+#image6 {
+  background-image: url("/images/futurefest-6.jpg");
+}
+
+blockquote {
+  color: grey;
+  border-left: 2px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  display: inline;
+}
