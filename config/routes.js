@@ -38,6 +38,14 @@ module.exports.routes = {
 
   "/about": {
     view: "about"
+  },
+	
+	"/contact": {
+    view: "contact"
+  },
+	
+	"/sponsors": {
+    view: "sponsors"
   }
 
   /***************************************************************************
